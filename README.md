@@ -2,7 +2,7 @@
 
 
 **Anapr365**
-- 👩‍💻  Não estou trabalhando atualmente so Estudando
+- 👩‍💻 I am not currently working on Studying
  - 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT
 - 📫 How to reach me:  ar2378295@gmail.com
 

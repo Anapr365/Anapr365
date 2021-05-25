@@ -18,8 +18,10 @@
 <a href="https://twitter.com/anapaul69840348" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ana Paula" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/ana-paula-rosa-793b821b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ana Paula" height="20" width="20" /></a>
 <a href="https://www.facebook.com/profile.php?id=100007080397918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ana Paula" height="20" width="20" /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Anapr365&show_icons=true" alt="Anapr365"/> 
+
 </p>
-[![Ana Paula's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anapr365)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

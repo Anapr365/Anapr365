@@ -11,7 +11,7 @@
 
 I'm a {backend, frontend } estou em aprendizado.
 - 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Python, Kotlin, Git 
-- 👩‍💻 I am not currently working on Studying
+- 👩‍💻 I am not currently working 
 - 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT**
 - 📫 How to reach me:  ar2378295@gmail.com**
 - ⚡ Fun fact **Oneye 😜**

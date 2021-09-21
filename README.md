@@ -1,27 +1,33 @@
-### Hi there 👋
+#  👋 Hi, I'm Anapr! :D
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Anapr</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="Anapr" /> </p>
-**Anapr365**
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link==https://github.com/Anapr365s)](=https://github.com/Anapr365s)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-paula-rosa-793b821b9/)](https://www.linkedin.com/in/ana-paula-rosa-793b821b9/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anapaul69840348)](https://twitter.com/anapaul69840348)
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5548991046155">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+### About mim
+
+I'm a {backend, frontend } estou em aprendizado.
+- 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Python, Kotlin, Git 
 - 👩‍💻 I am not currently working on Studying
- - 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT**
+- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT**
 - 📫 How to reach me:  ar2378295@gmail.com**
 - ⚡ Fun fact **Oneye 😜**
- <p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p>
 
-<p align="center">
-<a href="https://twitter.com/anapaul69840348" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ana Paula" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/ana-paula-rosa-793b821b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ana Paula" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007080397918" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ana Paula" height="20" width="20" /></a>
-</p>
 
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anapr365&layout=compact)](https://github.com/Anapr365/github-readme-stats)
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 Here are some ideas to get you started:
 

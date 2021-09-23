@@ -14,8 +14,6 @@ I'm a {backend, frontend } estou em aprendizado.
 - 👩‍💻 I am not currently working 
 - 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODE, REACT**
 - 📫 How to reach me:  ar2378295@gmail.com**
-- ⚡ Fun fact **Oneye 😜**
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anapr365&layout=compact)](https://github.com/Anapr365/github-readme-stats)
 
